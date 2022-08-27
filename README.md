@@ -1,4 +1,4 @@
-# Repo for my personal website
+# Repo for my personal website(WIP)
 Not much more, not less. Here you will find all of the files from the website.
 Enjoy.
 
