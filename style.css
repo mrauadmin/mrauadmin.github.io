@@ -12,4 +12,24 @@ a:hover {
 a:active {
     text-decoration: none;
   }
-
+.card-box{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+  gap: 1rem;
+  border-radius: 5px;
+  width: 100%;
+}
+.card {
+    box-shadow: 0 4px 5px 0 rgb(255, 255, 255);
+    transition: 0.1s;
+  }
+.card:hover {
+    box-shadow: 0 3px 7px 0 rgb(255, 255, 255);
+}
+.container {
+    padding: 2px 16px;
+  }
+.cont-img {
+    border-radius: 5px 5px 0 0;
+  }
